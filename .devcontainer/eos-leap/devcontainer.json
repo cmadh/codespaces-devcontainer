@@ -1,5 +1,5 @@
 {
-  "name": "WAX-Leap WebIDE",
+  "name": "Leap WebIDE",
   "image": "ghcr.io/cmadh/leap-docker:main",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
