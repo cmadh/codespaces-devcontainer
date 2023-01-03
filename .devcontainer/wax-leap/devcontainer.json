@@ -1,0 +1,10 @@
+{
+  "name": "WAX-Leap WebIDE",
+  "image": "ghcr.io/cmadh/wax-leap-docker:main",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-vscode.cpptools"
+  ],
+}
